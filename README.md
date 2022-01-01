@@ -1,4 +1,3 @@
-Check the portfolio! 💼 - https://www.milipernia.com/
+Do you liked it?
 
-A responsive portfolio created as a 3rd project for SheCodes 🧠💼
-Hosted with Netlify 
+Tell me below at:
